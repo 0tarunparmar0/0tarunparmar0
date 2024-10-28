@@ -12,7 +12,7 @@
 - Explore more cool stuff on my LinkTree **https://linktr.ee/tarunparmar**
 
 
-- Unlock My Professional Story 🚀 [https://drive.google.com/file/d/1h37t8s-Xlztwkj07Me50tQNeI6NC3bXt/view](https://drive.google.com/file/d/1h37t8s-Xlztwkj07Me50tQNeI6NC3bXt/view)
+- Unlock My Professional Story 🚀 [https://drive.google.com/file/d/1h37t8s-Xlztwkj07Me50tQNeI6NC3bXt/view](https://drive.google.com/file/d/149Reo8UODoQAFJNxcr_BU6ruSgpMWfJj/view?usp=drivesdk)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
