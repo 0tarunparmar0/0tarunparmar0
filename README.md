@@ -1,4 +1,3 @@
-![my_banner](https://github.com/0tarunparmar0/0tarunparmar0/blob/main/Black%20%26%20Blue%20Creative%20Game%20Streammer%20Twitch%20Banner.gif.gif)
 <h1 align="center"> Hey there! 👋 I'm Tarun, a code enthusiast 🚀</h1>
 
 <h3 align="center">I'm on a mission to turn coffee ☕ into code 💻. Currently, I'm diving deep into the world of FullStack Development.</h3>
@@ -7,12 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0tarunparmar0&label=Profile%20views&color=0e75b6&style=flat" alt="0tarunparmar0" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
-
 - Explore more cool stuff on my LinkTree **https://linktr.ee/tarunparmar**
 
 
-- Unlock My Professional Story 🚀 [https://drive.google.com/file/d/1h37t8s-Xlztwkj07Me50tQNeI6NC3bXt/view](https://drive.google.com/file/d/149Reo8UODoQAFJNxcr_BU6ruSgpMWfJj/view?usp=drivesdk)
+- Unlock My Professional Story 🚀 [Tarun Resume](https://github.com/0tarunparmar0/TarunResume)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
